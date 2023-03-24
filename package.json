@@ -1,7 +1,7 @@
 {
   "name": "@s19/react-map-gl",
   "description": "Fork of react components for Mapbox GL JS-compatible libraries",
-  "version": "7.0.1",
+  "version": "7.0.2",
   "keywords": [
     "mapbox",
     "mapbox-gl",
